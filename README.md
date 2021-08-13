@@ -1,9 +1,8 @@
 <div>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPauloVN&hide=contribs,prs&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloVN&layout=compact&theme=dark)](https://github.com/JoaoPauloVN/github-readme-stats)
-
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPauloVN&hide=contribs,prs&show_icons=true&theme=dark)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloVN&layout=compact&theme=dark)](https://github.com/JoaoPauloVN/github-readme-stats)
 </div>
 
 ##
